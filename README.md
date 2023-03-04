@@ -35,8 +35,8 @@ By running the sript **image2image.py**, we will have following outputs:
 
 * **python 3.6**
 * **cv2** 
-* **numpy**
-"""
-@author: Hoang Minh Ngoc <ngoc.hm200440@sis.hust.edu.vn>
-inspired by Viet Nguyen
-"""
+* **numpy** </br>
+""" </br>
+@author: Hoang Minh Ngoc <ngoc.hm200440@sis.hust.edu.vn> </br>
+inspired by Viet Nguyen </br>
+""" </br>
